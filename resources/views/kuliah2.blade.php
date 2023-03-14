@@ -34,7 +34,7 @@
                     <p>{{$item->story}}</p>
                     @endforeach   
                     
-                    <p" >Hallo, aku didin dari bangkalan madura. Seorang anak muda yang ingin mencari ilmu di luar pulaunya sendiri.
+                    {{-- <p" >Hallo, aku didin dari bangkalan madura. Seorang anak muda yang ingin mencari ilmu di luar pulaunya sendiri.
                         Beberapa hal yang menjadi alasanku untuk kuliah di Polinema ini, yakni dikarenakan Jurusannya dan juga karena
                         ada di Kota Malang. Kota ini juga merupakan kota yang banyak ingin disinggahi dengan berbagai macam wisata
                         dan lokasi yang indah tentunya. Kuliah di Polinema ini pada awalnya sedikit kaget dan beda dikarenakan dahulunya
@@ -47,7 +47,7 @@
                         kesibukann yang cukup sibuk, apalagi juga ikut organisasi, tentunya sedikit sekali waktu kosong selama ini. Namun, hal tersebut cukup
                         seru dan menantang. Kurang lebih 2 tahun ini, softskill dan hardskill ku, lumayan meningkat dari pada sebelumnya. Jadi, hal ini merupakan
                         dampak positif dari itu semua. 
-                    </p>
+                    </p> --}}
                 </center>
             </div>
         </div>
