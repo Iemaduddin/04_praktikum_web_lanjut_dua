@@ -26,7 +26,7 @@
             <div class="inner">
                 <center>
                     <h4 style="font-weight: bold">Profil</h4><br><br>
-                    <img src="dist/img/didin.png" alt="foto didin" style="width:200px"> <br><br>    
+                    <img src="dist/img/endar.jpg" alt="foto didin" style="width:200px"> <br><br>    
                     
                     <h4 style="font-weight: bold">
                         ----------------------------------------------------------------------------------------------------------------------------------------------
