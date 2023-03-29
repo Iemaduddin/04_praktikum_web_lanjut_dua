@@ -15,6 +15,7 @@
                   <div class="card bg-gradient-primary">
                     <div style="margin: 30px">
                       <h1 >Selamat Datang</h1>
+                      <h2>{{ $user->name }}</h2>
                     </div>
                   </div>
                   <!-- /.card -->

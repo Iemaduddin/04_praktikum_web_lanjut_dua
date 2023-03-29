@@ -17,10 +17,10 @@ use App\Http\Controllers\DashboardController;
 */
 
 Route::get('/', function () {
-    return view('dashboard');
+    return view('welcome');
 });
 
-// Auth::routes();
+Auth::routes();
 
 Route::get('/home', [HomeController::class, 'index'])->name('dashboard');
 Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
